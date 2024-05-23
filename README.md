@@ -14,7 +14,7 @@ Let's make a meaningful impact by combining our skills and expertise! ✨ Lookin
 
 ## 📬 Get in touch
 
-You can reach me at **[email](email:mail@andreaswarnaar.nl)** or **[my homepage](https://andreaswarnaaar.nl)**
+You can reach me at **[email](email:mail@andreaswarnaar.nl)** or **[my homepage](https://andreaswarnaar.nl)**
 
 <!--
 - 🌱 I’m currently learning ...
